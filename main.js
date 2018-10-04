@@ -20,6 +20,10 @@ cacheAjaxPromiseFuc('https://jsonplaceholder.typicode.com/todos/1')
         .catch( error => console.log(error) )        
         
 
+rapidFireFuction = () => {
+    console.log('Just a function !');
+}
+
 /* 
 cacheAjaxPromiseFuc('https://jsonplaceholder.typicode.com/todo11/1')
         .then( resp => console.log(resp) )
