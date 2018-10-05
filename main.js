@@ -25,3 +25,7 @@ cacheAjaxPromiseFuc('https://jsonplaceholder.typicode.com/todo11/1')
         .then( resp => console.log(resp) )
         .catch( error => console.log(error) )        
 */
+
+enchance01 = () => {
+    return true;
+}
